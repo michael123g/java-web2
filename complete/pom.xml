@@ -54,12 +54,12 @@
         </dependency>
 
         <!-- junit 5, unit test -->
-        <!--dependency>
+        <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
             <version>5.3.1</version>
             <scope>test</scope>
-        </dependency-->
+        </dependency>
 
         <!-- unit test -->
         <!--dependency>

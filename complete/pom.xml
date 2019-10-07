@@ -24,13 +24,13 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>${spring.version}</version>
+            <version>3.0.9.RELEASE</version>
         </dependency>
 
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-test</artifactId>
-            <version>${spring.version}</version>
+            <version>3.0.9.RELEASE</version>
         </dependency>
 
         <!-- logging , spring 5 no more bridge, thanks spring-jcl -->
